@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6f9d7a2c-d257-4b68-abb7-d03abd8c2dfc
+**URL**: https://github.com/sumesharavind/sumesh-portfolio.git
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 
 
-Simply visit the (https://lovable.dev/projects/6f9d7a2c-d257-4b68-abb7-d03abd8c2dfc) and start prompting.
+Simply visit the (https://github.com/sumesharavind/sumesh-portfolio.git) and start prompting.
 
 
 
@@ -60,14 +60,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open (https://lovable.dev/projects/6f9d7a2c-d257-4b68-abb7-d03abd8c2dfc) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
