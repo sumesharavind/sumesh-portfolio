@@ -63,7 +63,7 @@ const About = () => {
                 </div>
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Projects Completed</span>
-                  <span className="text-primary font-semibold">50+</span>
+                  <span className="text-primary font-semibold">5+</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Technologies</span>
