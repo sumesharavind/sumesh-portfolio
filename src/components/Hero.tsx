@@ -96,7 +96,7 @@ const Hero = () => {
     </Button>
   </a>
   <a
-    href="mailto:sumesharavind940@gmail.com"
+    href="mailto:sumesharavind20@gmail.com"
     aria-label="Email"
   >
     <Button variant="ghost" size="icon" className="hover:text-primary hover:shadow-glow transition-all duration-300">

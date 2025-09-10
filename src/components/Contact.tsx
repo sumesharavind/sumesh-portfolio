@@ -35,8 +35,8 @@ function Contact() {
         {
             icon: Mail,
             title: "Email",
-            value: "sumesharavind940@gmail.com",
-            link: "mailto:sumesharavind940@gmail.com"
+            value: "sumesharavind20@gmail.com",
+            link: "mailto:sumesharavind20@gmail.com"
         },
         {
             icon: Phone,

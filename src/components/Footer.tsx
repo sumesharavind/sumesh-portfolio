@@ -7,7 +7,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Github, href: "https://github.com/sumesharavind", label: "GitHub" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/sumesh-aravind-k-5b1a71269/", label: "LinkedIn" },
-    { icon: Mail, href: "mailto:sumesharavind940@gmail.com", label: "Email" }
+    { icon: Mail, href: "mailto:sumesharavind20@gmail.com", label: "Email" }
   ];
 
   const scrollToTop = () => {
